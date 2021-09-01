@@ -1,5 +1,5 @@
 {
-  "posts": {
+  "daily": {
     "transport": "AA7281AA",
     "passengers": 304,
     "flowOfPassengers": [
@@ -57,6 +57,134 @@
       }
     ]
 
-  }
+  },
 
+
+
+
+
+  "weekly": {
+    "transport": "AA7281AA",
+    "passengers": 304,
+    "flowOfPassengers": [
+      {
+        "date": "2021-09-06 00:00",
+        "passengers": 184
+      },
+      {
+        "date": "2021-09-06 00:20",
+        "passengers": 14
+      },
+      {
+        "date": "2021-09-06 01:00",
+        "passengers": 784
+      },
+      {
+        "date": "2021-09-06 02:00",
+        "passengers": 884
+      },
+      {
+        "date": "2021-09-07 03:00",
+        "passengers": 999
+      },
+      {
+        "date": "2021-09-07 03:20",
+        "passengers": 12
+      },
+      {
+        "date": "2021-09-07 01:00",
+        "passengers": 675
+      },
+      {
+        "date": "2021-09-07 12:00",
+        "passengers": 282
+      },
+      {
+        "date": "2021-09-08 11:00",
+        "passengers": 542
+      },
+      {
+        "date": "2021-09-09 14:00",
+        "passengers": 824
+      },
+      {
+        "date": "2021-09-09 19:20",
+        "passengers": 176
+      },
+      {
+        "date": "2021-09-10 22:08",
+        "passengers": 184
+      },
+      {
+        "date": "2021-09-10 22:50",
+        "passengers": 187
+      }
+    ]
+
+  },
+
+
+
+
+
+
+  "monthly": {
+    "transport": "AA7281AA",
+    "passengers": 304,
+    "flowOfPassengers": [
+      {
+        "date": "2021-09-01 00:00",
+        "passengers": 184
+      },
+      {
+        "date": "2021-09-01 00:20",
+        "passengers": 14
+      },
+      {
+        "date": "2021-09-02 01:00",
+        "passengers": 784
+      },
+      {
+        "date": "2021-09-03 02:00",
+        "passengers": 884
+      },
+      {
+        "date": "2021-09-04 03:00",
+        "passengers": 999
+      },
+      {
+        "date": "2021-09-05 03:20",
+        "passengers": 12
+      },
+      {
+        "date": "2021-09-07 01:00",
+        "passengers": 675
+      },
+      {
+        "date": "2021-09-08 12:00",
+        "passengers": 282
+      },
+      {
+        "date": "2021-09-09 11:00",
+        "passengers": 542
+      },
+      {
+        "date": "2021-09-09 14:00",
+        "passengers": 824
+      },
+      {
+        "date": "2021-09-10 19:20",
+        "passengers": 176
+      },
+      {
+        "date": "2021-09-11 22:08",
+        "passengers": 184
+      },
+      {
+        "date": "2021-09-12 22:50",
+        "passengers": 187
+      }
+    ]
+
+  }
 }
