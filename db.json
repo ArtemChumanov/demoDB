@@ -1,19 +1,62 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "hello2"
-    },
-    {
-      "id": 3,
-      "title": "hell3"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "posts": {
+    "transport": "AA7281AA",
+    "passengers": 304,
+    "flowOfPassengers": [
+      {
+        "date": "2021-08-30 00:00",
+        "passengers": 184
+      },
+      {
+        "date": "2021-08-30 00:20",
+        "passengers": 14
+      },
+      {
+        "date": "2021-08-30 01:00",
+        "passengers": 784
+      },
+      {
+        "date": "2021-08-30 02:00",
+        "passengers": 884
+      },
+      {
+        "date": "2021-08-30 03:00",
+        "passengers": 999
+      },
+      {
+        "date": "2021-08-30 03:20",
+        "passengers": 12
+      },
+      {
+        "date": "2021-08-30 05:00",
+        "passengers": 675
+      },
+      {
+        "date": "2021-08-30 10:00",
+        "passengers": 282
+      },
+      {
+        "date": "2021-08-30 11:00",
+        "passengers": 542
+      },
+      {
+        "date": "2021-08-30 14:00",
+        "passengers": 824
+      },
+      {
+        "date": "2021-08-30 19:20",
+        "passengers": 176
+      },
+      {
+        "date": "2021-08-30 22:08",
+        "passengers": 184
+      },
+      {
+        "date": "2021-08-30 22:50",
+        "passengers": 187
+      }
+    ]
+
   }
+
 }
