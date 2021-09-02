@@ -274,5 +274,66 @@
       }
     ]
 
+  },
+
+
+
+
+
+
+  "yearly": {
+    "transport": "AA7281AA",
+    "passengers": 304,
+    "flowOfPassengers": [
+      {
+        "date": "2021-01-01 00:00",
+        "passengers": 184
+      },
+      {
+        "date": "2021-02-02 00:20",
+        "passengers": 14
+      },
+      {
+        "date": "2021-03-03 01:00",
+        "passengers": 784
+      },
+      {
+        "date": "2021-04-04 02:00",
+        "passengers": 884
+      },
+      {
+        "date": "2021-05-05 03:00",
+        "passengers": 999
+      },
+      {
+        "date": "2021-06-06 03:20",
+        "passengers": 12
+      },
+      {
+        "date": "2021-07-07 01:00",
+        "passengers": 675
+      },
+      {
+        "date": "2021-08-08 12:00",
+        "passengers": 282
+      },
+      {
+        "date": "2021-09-09 11:00",
+        "passengers": 542
+      },
+      {
+        "date": "2021-10-10 14:00",
+        "passengers": 824
+      },
+      {
+        "date": "2021-11-11 19:20",
+        "passengers": 176
+      },
+      {
+        "date": "2021-12-12 22:08",
+        "passengers": 184
+      }
+    ]
+
   }
 }
